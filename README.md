@@ -73,10 +73,10 @@ Two interactive dashboards were created in **Power BI** to visualize findings:
 ## 🗂️ **Project Files**
 | File | Description |
 |------|--------------|
-| `cosmetics_sales_analysis.sql` | SQL script for database creation, views, and analysis queries |
+| `cosmetics_sales_analysis.sql` `create_fake_ecommerce_db` | SQL script for database creation, views, and analysis queries |
 | `Business Questions.pdf` | Core business questions answered using SQL |
-| `Cosmetics_Sales_Analysis_Professional_Report.pdf` | Executive report with insights and recommendations |
-| `Power BI Dashboards (.pbix)` | Interactive dashboards for visualization |
+| `Cosmetics Sales Analysis Report.pdf` | Executive report with insights and recommendations |
+| `Cosmetics_Sales_Analysis (.pbix)` | Interactive dashboards for visualization |
 
 ---
 
