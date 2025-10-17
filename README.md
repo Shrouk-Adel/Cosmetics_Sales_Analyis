@@ -41,7 +41,7 @@ Two interactive dashboards were created in **Power BI** to visualize findings:
 
 #### 📊 **Dashboard  – Sales & Revenue Overview**
  
-[🔗 View Interactive Power BI Dashboard] (https://app.powerbi.com/reportEmbed?reportId=6aea8e51-8cc6-4445-96e5-36b0924f275a&autoAuth=true&ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842)
+#### [🔗 View Interactive Power BI Dashboard] (https://app.powerbi.com/reportEmbed?reportId=6aea8e51-8cc6-4445-96e5-36b0924f275a&autoAuth=true&ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842)
 ---
 
 ## 📈 **Key Insights**
@@ -59,10 +59,6 @@ Two interactive dashboards were created in **Power BI** to visualize findings:
    Online and Credit Card lead in total revenue  
 7. **Best Months for Promotions:**  
    August and September (pre-holiday sales surge)  
-
----
-
- 
 
 ---
 
